@@ -21,6 +21,7 @@
 
 # Visual Studio cache directory
 .vs/
+*.vsconfig
 
 # Gradle cache directory
 .gradle/
@@ -58,3 +59,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# rider config
+.idea
+UserSettings/EditorUserSettings.asset
